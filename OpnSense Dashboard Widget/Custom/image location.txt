@@ -1,0 +1,2 @@
+ Create a folder in the "Themes" director called "Jono"
+ Place all images there

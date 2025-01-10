@@ -1,0 +1,42 @@
+<metadata>
+    <jonowidget>
+        <filename>Jono.js</filename>
+        <link>/ui/diagnostics/firewall/log</link>
+        <endpoints>
+            <endpoint>/api/diagnostics/firewall/streamLog</endpoint>
+            <endpoint>/api/diagnostics/interface/getInterfaceNames</endpoint>
+        </endpoints>
+        <translations>
+            <title>Jono Widget</title>
+            <action>Action</action>
+            <time>Time</time>
+            <interface>Interface</interface>
+            <source>Source</source>
+            <destination>Destination</destination>
+            <port>Port</port>
+            <matchedrule>Matched rule</matchedrule>
+            <click>Click to track this rule in Live View</click>
+            <label>Label</label>
+            <count>Count</count>
+            <livelog>Live Log</livelog>
+            <events>Events</events>
+            <nodata>Waiting for data</nodata>
+            <interfaces>Interfaces</interfaces>
+            <services>Services</services>
+            <noservices>No services found</noservices>
+            <running>Running</running>
+            <stopped>Stopped</stopped>
+            <restart>Restart</restart>
+            <stop>Stop</stop>
+            <start>Start</start>
+            <total>Total</total>
+            <user>User</user>
+            <sys>System</sys>
+            <intr>Interrupt</intr>
+            <graphs>Graphs</graphs>
+            <used>Used</used>
+            <free>Free</free>
+            <disk>Disk</disk>
+        </translations>
+    </jonowidget>
+</metadata>

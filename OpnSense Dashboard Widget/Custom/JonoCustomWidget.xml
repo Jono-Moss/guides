@@ -1,0 +1,34 @@
+<metadata>
+    <jonoCustomwidget>
+        <filename>JonoCustom.js</filename>
+        <link>https://jonomoss.com</link>
+        <endpoints>
+            <endpoint>/api/diagnostics/system/systemResources</endpoint>
+        </endpoints>
+        <translations>
+            <title>Jono Custom Widget</title>
+            <used>Used</used>
+            <free>Free</free>
+            <firewall>Firewall Logs</firewall>
+            <action>Action</action>
+            <time>Time</time>
+            <interface>Interface</interface>
+            <source>Source</source>
+            <destination>Destination</destination>
+            <port>Port</port>
+            <matchedrule>Matched rule</matchedrule>
+            <interfaces>Interfaces</interfaces>
+            <services>Services</services>
+            <noservices>No services found</noservices>
+            <running>Running</running>
+            <stopped>Stopped</stopped>
+            <restart>Restart</restart>
+            <stop>Stop</stop>
+            <start>Start</start>
+            <gateway>Gateways</gateway>
+            <rtt>RTT</rtt>
+            <rttd>RTTd</rttd>
+            <loss>Loss</loss>
+        </translations>
+    </jonoCustomwidget>
+</metadata>
